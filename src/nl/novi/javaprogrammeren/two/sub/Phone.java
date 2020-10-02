@@ -7,7 +7,8 @@ public class Phone {
         this.brand = brand;
     }
 
-    String getBrand() {
+    public String getBrand() {
         return brand;
     }
+    //public toegevoegd
 }
